@@ -1,6 +1,19 @@
+<div align="center">
+	<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"/>
+</div>
+
 ### Hello! I'm Carolina Rosatto
 
+This is my second github account, because I've lost the first one. If you want to check my past living codes, look here: [My older account](https://github.com/carolrosatto).
+- I'm a full time developer living in Sao Paulo, Brazil.
+- I have experience with web development, and I'm currently learning Android + Java.
+- I'm a mobile developer at Bradesco bank.
 
+## Currently learning/working with
+<div>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android"/>
+</div>
 
 ## Technologies I've worked with
 
