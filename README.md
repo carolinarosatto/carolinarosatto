@@ -55,16 +55,21 @@ This is my second github account, because I've lost the first one. If you want t
 </div>
 
 ### Communication
-<div >
+<div>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>
 </div>
 
 ## My stats
+<div align="center">
+	
 ![carolinarosatto's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinarosatto&theme=jolly&show_icons=true&hide_border=false&layout=compact)<br>
 
 ![carolinarosatto's Stats](https://github-readme-stats.vercel.app/api?username=carolinarosatto&theme=jolly&show_icons=true&hide_border=false&count_private=true)<br>
 
 ![carolinarosatto's Streak](https://github-readme-streak-stats.herokuapp.com/?user=carolinarosatto&theme=jolly&hide_border=false)<br>
+
+</div>
+
 
 
